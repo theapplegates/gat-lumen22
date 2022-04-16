@@ -17,6 +17,8 @@ Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aen
 
 ## Header Level 2
 
+![A tree](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/another-tree.jpg)
+
 - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 - Aliquam tincidunt mauris eu risus.
 
